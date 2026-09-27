@@ -229,6 +229,8 @@ Main
 └── Menjalankan Program
 ```
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2993725a-ecff-40b1-aed7-3bd90a4c17da" />
+
 ### Model
 
 Package `model` digunakan untuk menyimpan class dan data yang digunakan dalam sistem.
