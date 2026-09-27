@@ -1,0 +1,10 @@
+com\mycompany\sistempengelolaanlaundry\Main.class
+Model\Admin.class
+Model\LaundryKiloan.class
+Model\LaundrySatuan.class
+Controller\LaundryController.class
+Model\Pelanggan.class
+Model\Pengguna.class
+Model\Transaksi.class
+View\LaundryView.class
+Model\Layanan.class
